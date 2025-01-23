@@ -29,6 +29,6 @@ I SPK jobber du med fantastiske kolleger som brenner for teknologi, pensjon og �
 🌟 Vil du bli bedre kjent med oss?  
 📢 Følg oss på våre kanaler:  
 🌐 [Nettsiden vår](https://www.spk.no/)  
-🔗 [LinkedIn-profilen vår](https://www.linkedin.com/company/spk)  
+🔗 [LinkedIn-profilen vår](https://www.linkedin.com/company/statens-pensjonskasse/)  
 
 Kontakt oss hvis du har spørsmål eller ønsker å vite mer.
