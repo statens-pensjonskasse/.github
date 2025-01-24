@@ -4,7 +4,7 @@ Statens pensjonskasse er Norges største leverandør av offentlige tjenestepensj
 Vi sørger for trygghet og økonomisk forutsigbarhet for våre medlemmer – fra første jobb til pensjonisttilværelsen.👩‍🎓👨‍🏫👩‍⚕️
 
 ## 🌍 Hva vi driver med
-✅ Vi administrerer pensjonsrettigheter for rundt *1 million medlemmer* og *1300 viksomheter*.  
+✅ Vi administrerer pensjonsrettigheter for rundt *1 million medlemmer* og *1300 virksomheter*.  
 ✅ Vi håndterer pensjoner for ansatte i staten, skoleverket og andre virksomheter med offentlig tilknytning.  
 ✅ Vi tilbyr boliglån med konkurransedyktige betingelser for våre medlemmer.🏡  
 ✅ Vi utvikler og drifter moderne IT-systemer for å støtte effektive og pålitelige tjenester.💻✨  
