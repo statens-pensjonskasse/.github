@@ -40,13 +40,13 @@ Alle repositorier må ha en forklarende README-fil som beskriver hensikten med r
 
 ## Etiske regler
 
-Vi benytter [etiske regler](https://github.com/statens-pensjonskasse/.github/CODE_OF_CONDUCT.md) basert på [Contributor Covenant](https://www.contributor-covenant.org/) for å sikre et inkluderende, respektfullt og konstruktivt bidragsmiljø. Reglene gjelder både interne og eksterne bidragsytere.
+Vi benytter [etiske regler](https://github.com/statens-pensjonskasse/.github/blob/main/CODE_OF_CONDUCT.md) basert på [Contributor Covenant](https://www.contributor-covenant.org/) for å sikre et inkluderende, respektfullt og konstruktivt bidragsmiljø. Reglene gjelder både interne og eksterne bidragsytere.
 
 ## Sikkerhet
 
 ### Ved mottak av sårbarhetsrapport
 
-Eksterne må ha en tydelig kanal for å rapportere sikkerhetsfunn se [SIKKERHET](https://github.com/statens-pensjonskasse/.github/SECURITY.md).
+Eksterne må ha en tydelig kanal for å rapportere sikkerhetsfunn se [SIKKERHET](https://github.com/statens-pensjonskasse/.github/blob/main/SECURITY.md).
 
 ## Hvordan komme i gang?
 
