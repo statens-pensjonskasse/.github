@@ -50,7 +50,7 @@ Eksterne må ha en tydelig kanal for å rapportere sikkerhetsfunn se [SIKKERHET]
 
 ## Hvordan komme i gang?
 
-All informasjon du trenger for å komme i gang finner du i vår interne [utvikler håndbok](https://handbok.utv.spk.no/plattform/github/).
+All informasjon du trenger for å komme i gang finner du i vår interne [utvikler håndbok](https://handbok.utv.spk.no/github/).
 
 ## Referanser
 
