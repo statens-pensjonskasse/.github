@@ -10,7 +10,7 @@ Vi sørger for trygghet og økonomisk forutsigbarhet for våre medlemmer – fra
 ✅ Vi tilbyr boliglån med konkurransedyktige betingelser for våre medlemmer.🏡  
 ✅ Vi utvikler og drifter moderne IT-systemer for å støtte effektive og pålitelige tjenester.💻✨
 
-## 💡Vår teknologi og stack
+## 💡 Vår teknologi og stack
 
 I SPK er teknologi hjertet i det vi gjør. Her er noen av verktøyene og teknologiene vi bruker for å utvikle moderne og robuste løsninger
 
@@ -23,7 +23,7 @@ I SPK er teknologi hjertet i det vi gjør. Her er noen av verktøyene og teknolo
 
 Vi elsker å eksperimentere med AI, automatisering og innovative løsninger for å forbedre tjenestene våre 🤖✨
 
-## 👩‍💻Hvem er vi?
+## 👩‍💻 Hvem er vi?
 
 I SPK jobber du med fantastiske kolleger som brenner for teknologi, pensjon og å gjøre hverdagen enklere for våre medlemmer.
 
@@ -34,7 +34,7 @@ I SPK jobber du med fantastiske kolleger som brenner for teknologi, pensjon og �
 🌐 [Nettsiden vår](https://www.spk.no/)  
 🔗 [LinkedIn-profilen vår](https://www.linkedin.com/company/statens-pensjonskasse/)
 
-## Hvordan jobber vi?
+## 🧰 Hvordan jobber vi?
 
 I SPK jobber vi for økt autonomi i domenespesifikke produktteam, og for at offentlig finansierte løsninger skal være offentlig tilgjengelige. Les mer om [retningslinjer for åpen kildekode](/OFFENTLIG.md)
 
